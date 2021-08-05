@@ -1,1 +1,1 @@
-# IDcard_detection_and_OCR
+# IDcard detection and OCR
