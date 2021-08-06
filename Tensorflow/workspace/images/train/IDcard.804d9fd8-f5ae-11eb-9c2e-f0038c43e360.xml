@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IDcard</folder>
+	<filename>IDcard.804d9fd8-f5ae-11eb-9c2e-f0038c43e360.jpg</filename>
+	<path>D:\Data Science\Jupyter\ID card detection and OCR\TFODCourse\Tensorflow\workspace\images\collectedimages\IDcard\IDcard.804d9fd8-f5ae-11eb-9c2e-f0038c43e360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IDcard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>64</ymin>
+			<xmax>631</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
