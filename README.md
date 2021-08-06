@@ -14,7 +14,7 @@ The main idea of this projects is to simplify administration process in indonesi
 - [https://github.com/nicknochnack/RealTimeAutomaticNumberPlateRecognition](https://github.com/nicknochnack/RealTimeAutomaticNumberPlateRecognition)
 
 ## The Training data
-I am collected my own id card images using webcam with various light condition and orientation and label it using labelimg. I am training it with 20 photos.
+I am collected my own id card images using webcam with various light condition and orientation and label it using labelimg. I am training it with only 20 photos. After 3000 step of training, I got around 0.17 loss and evaluation metrics Precision and Recall 0.95
 
 ![](https://github.com/RodzanIskandar/IDcard_detection_and_OCR/blob/main/images/total%20loss.PNG) ![](https://github.com/RodzanIskandar/IDcard_detection_and_OCR/blob/main/images/Evaluation%20metrics.PNG)
 
