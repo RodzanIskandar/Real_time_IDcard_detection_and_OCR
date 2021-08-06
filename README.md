@@ -1,4 +1,4 @@
-# IDcard detection and OCR
+# Real Time IDcard Detection and OCR
 ![](https://github.com/RodzanIskandar/IDcard_detection_and_OCR/blob/main/images/realtime%20detection.png)
 ## Overview
 The main idea of this projects is to simplify administration process in indonesia using existing id card. This idea comes up cause there are complicated administration process in Indonesia especially in the state administrative affairs for civilians. So here I am designed the ID card detection and Optical Character Recognition (OCR) to its able to detect and record the information into csv file using camera. To detect the idcard I am using Tensorflow object detection algortihm with SSD MobileNet V2 FPNLite 320x320 as pretrained model from Tensorflow. In order to detect the characters on the id card, I am using library easyocr based on pytorch.
